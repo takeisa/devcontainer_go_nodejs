@@ -1,0 +1,10 @@
+{
+  "name": "Node.js Application",
+  "dockerFile": "Dockerfile",
+  "appPort": 3080,
+  "customizations": {
+    "vscode": {
+      "extensions": ["dbaeumer.vscode-eslint"]
+    }
+  }
+}
